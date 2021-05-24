@@ -1,0 +1,83 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background: #FFFBF0;
+}
+
+.navbar-brand {
+    width: 50%;
+}
+
+.nav-link {
+    color: black !important;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.headline span {
+    color: #FABE4C;
+}
+
+.headline {
+    color: #363958;
+    font-size: 80px;
+    font-style: normal;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.text {
+    width: 360px;
+    color: #3E3E3E;
+    ;
+}
+
+.buy-now {
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 15px 30px;
+    background-image: linear-gradient(180deg, #A4BC46, #85A019);
+    border-radius: 6px;
+    border: none;
+}
+
+.buy-now:hover {
+    color: #FFFFFF;
+}
+
+.section-title {
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+
+.card-img {
+    height: 257px;
+    width: 210px;
+}
+
+.img-area {
+    background: #F1F1F1;
+    border-radius: 20px;
+}
+
+.card {
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+
+.card-title {
+    font-size: 24px;
+    color: #363958;
+}
+
+.price {
+    color: #FABE4C;
+    font-size: 36px;
+    font-weight: 900;
+    font-style: normal;
+}
