@@ -81,3 +81,35 @@ header {
     font-weight: 900;
     font-style: normal;
 }
+
+.store-list {
+    margin-top: 7rem;
+}
+
+.list-title {
+    color: #363958;
+    font-size: 24px;
+    font-style: normal;
+}
+
+footer {
+    background: #282c2f;
+}
+
+.contact-icon {
+    margin: 5px;
+    background: #54545454;
+    padding: 9px;
+    border-radius: 50%;
+    width: 43px;
+    text-align: center;
+}
+
+.social-icon i {
+    margin: 5px;
+    background: #54545454;
+    padding: 10px;
+    border-radius: 50%;
+    width: 36px;
+    text-align: center;
+}
